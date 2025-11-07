@@ -7,6 +7,7 @@ public class  RightAngledTrianglePattern{
                 System.out.print("*");
             }
             System.out.println();
+            
         }
     }
 }
